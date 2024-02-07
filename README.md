@@ -1,10 +1,10 @@
 # Anu Book
 ### Anu Book Is An Ecosystem For Developers, Developers Or Programer Can Get any Resource About Programing Language for Instance C++ Programing Language , Python Programing Language
-### ,Javascript Programing Language ,Ruby Programing Language , Rust Programing Language , C# Programing Language  and more .....
+### Javascript Programing Language , Ruby Programing Language  Rust Programing Language  C# Programing Language  and more .....
 
 # Description:
 
-### cWelcome to The Programmer's Ecosystem, your one-stop destination for all things related to programming, development, and technology. Whether you're a seasoned developer or just     ### starting your coding journey, our website offers a comprehensive collection of resources to help you learn, grow, and succeed in the world of software development.
+### Welcome to The Programmer's Ecosystem, your one-stop destination for all things related to programming, development, and technology. Whether you're a seasoned developer or just     ### starting your coding journey, our website offers a comprehensive collection of resources to help you learn, grow, and succeed in the world of software development.
 
 # Key Features:
 
@@ -26,7 +26,7 @@
 
 ### Feel free to customize and expand upon this description to better fit the specific focus and offerings of your programmer resource website.
 
-### SO You Can Get By
+### So You Can Get By
 ```
 https://github.com/anuteshome/Anu-Book/edit/master/
 ```
