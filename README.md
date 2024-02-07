@@ -1,13 +1,14 @@
 On a scale of 1 to 10, how would you rate the progress you’ve made this week?
+
 9/10
-Provide an explanation of your progress assessment this week.
-It’s great 
+
 What parts of your project are completed as planned?
-Home(its single webpage)
-What aspects of your project are incomplete?
-As server-side(Authentication)
+
+All(its single webpage)
+
 
 Explain the most difficult technical challenge you encountered in this second week. This answer must be more than 200 words
+
 
 In the second week, one of the most challenging technical tasks I encountered was implementing a complex algorithm for data processing in a javascript project. The algorithm involved parsing large datasets from various sources, performing intricate calculations, and generating meaningful insights.
 
@@ -18,6 +19,7 @@ To address these challenges, I adopted a systematic approach. I began by breakin
 Throughout the process, I encountered several obstacles, such as debugging complex logic errors and optimizing code for performance. However, by leveraging debugging tools, profiling techniques, and seeking guidance from peers, I was able to overcome these challenges effectively.
 
 Ultimately, successfully implementing the algorithm not only required technical expertise but also patience, perseverance, and collaboration. It was a valuable learning experience that enhanced my problem-solving skills and deepened my understanding of algorithm design and optimization.
+
 
 Describe the most difficult non-technical challenge you encountered in this second week. This answer must be more than 200 words.
 
