@@ -37,4 +37,6 @@ Another aspect of this challenge was learning to say no and set boundaries. As n
 Additionally, maintaining a healthy work-life balance was crucial. Taking breaks, practicing self-care, and spending time on activities outside of work helped prevent burnout and maintain my overall well-being.
 
 Overall, managing time and priorities required discipline, resilience, and adaptability. By implementing effective time management strategies and maintaining a balanced approach, I was able to navigate through the challenges of the second week successfully.
-
+```
+console.log("Anu book")
+```
